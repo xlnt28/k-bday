@@ -9,9 +9,10 @@
 body {
 
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      
-    background-repeat: repeat;
-    background-position: center center;
+      background-image: url('/img/cheesecake.webp'); /* Path to your image */
+    background-size: cover; /* Make the image cover the entire screen */
+    background-repeat: repeat; /* Prevent the image from repeating */
+    background-position: center center; /* Center the image */
   overflow-x: hidden;
   min-height: 100vh;
 }
