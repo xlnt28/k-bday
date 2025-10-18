@@ -192,7 +192,6 @@
   }
 }
 
-/* Permission dialog styles */
 .mic-permission {
   position: fixed;
   top: 0;
@@ -330,7 +329,6 @@
       max-width: 400px;
     }
 
-    /* Confetti style */
     .confetti {
       position: fixed;
       width: 10px;

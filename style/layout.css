@@ -7,8 +7,11 @@
 }
 
 body {
+
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: linear-gradient(135deg, #fff8b0 0%, #fff1a8 100%);
+      background-image: url('/img/cheesecake.webp'); 
+    background-repeat: repeat;
+    background-position: center center;
   overflow-x: hidden;
   min-height: 100vh;
 }
