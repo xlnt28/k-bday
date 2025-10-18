@@ -7,12 +7,11 @@
 }
 
 body {
-
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-image: url('/img/cheesecake.webp'); /* Path to your image */
-    background-size: cover; /* Make the image cover the entire screen */
-    background-repeat: repeat; /* Prevent the image from repeating */
-    background-position: center center; /* Center the image */
+      background-image: url('./img/cheesecake.webp'); 
+    background-size: cover; 
+    background-repeat: repeat; 
+    background-position: center center;
   overflow-x: hidden;
   min-height: 100vh;
 }
